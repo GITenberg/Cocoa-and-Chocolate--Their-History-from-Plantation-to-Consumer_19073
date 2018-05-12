@@ -1,0 +1,26 @@
+_repo: Cocoa-and-Chocolate--Their-History-from-Plantation-to-Consumer_19073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knapp, Arthur William
+    gutenberg_agent_id: '8451'
+    url: http://www.gutenberg.org/2009/agents/8451
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chocolate'
+- !lcsh 'Cocoa'
+- !lcc 'SB'
+title: 'Cocoa and Chocolate: Their History from Plantation to Consumer'
+url: http://www.gutenberg.org/ebooks/19073
